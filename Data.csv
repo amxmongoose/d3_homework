@@ -1,0 +1,52 @@
+StateAbrv,StateName,PercentBingeDrink,PercentMarried,PovertyPercent,PercentForeign
+AL,Alabama,12,47.3,19.3,14.3
+AK,Alaska,20.2,49.7,11.2,10.7
+AZ,Arizona,14.9,47,18.2,11.7
+AR,Arkansas,13.3,48.3,18.9,13.6
+CA,California,15.6,48.9,16.4,8.6
+CO,Colorado,17.5,49.3,12,12
+CT,Connecticut,15.9,48,10.8,14.3
+DE,Delaware,15.7,47.3,12.5,15.1
+DC,District of Columbia,24.9,23.9,17.7,21.7
+FL,Florida,15,46.1,16.5,12.9
+GA,Georgia,14.2,47.2,18.3,12.1
+HI,Hawaii,19.7,51.5,11.4,11.3
+ID,Idaho,14.8,54.9,14.8,11.3
+IL,Illinois,20.2,47.6,14.4,10
+IN,Indiana,14.8,48.7,15.2,17.3
+IA,Iowa,21.4,51.3,12.2,26.7
+KS,Kansas,15.8,50.9,13.6,16.1
+KY,Kentucky,12.7,48.4,19.1,19.6
+LA,Louisiana,16,43.2,19.8,20.2
+ME,Maine,17,48,14.1,22.1
+MD,Maryland,15.4,47.2,10.1,14.4
+MA,Massachusetts,17.4,46.4,11.6,16.6
+MI,Michigan,18.9,47.3,16.2,17.5
+MN,Minnesota,19.5,50.5,11.5,17.2
+MS,Mississippi,12.8,44,21.5,16.5
+MO,Missouri,15.1,47.8,15.5,17.5
+MT,Montana,18.9,48.5,15.4,15.7
+NE,Nebraska,20.3,50.2,12.4,18.5
+NV,Nevada,16,43.8,15.2,8.9
+NH,New Hampshire,16.8,52.1,9.2,14.9
+NJ,New Jersey,15.8,50.3,11.1,12.1
+NM,New Mexico,13.7,44.8,21.3,8.4
+NY,New York,15,43.6,15.9,12
+NC,North Carolina,13.6,47.6,17.2,13
+ND,North Dakota,24,48.8,11.5,24.6
+OH,Ohio,18.1,45.8,15.8,20
+OK,Oklahoma,12.9,48.7,16.6,16.7
+OR,Oregon,16.6,47.6,16.6,13.3
+PA,Pennsylvania,16.7,47.8,13.6,17.5
+RI,Rhode Island,18.4,43.7,14.3,14.1
+SC,South Carolina,14.1,46.4,18,16.5
+SD,South Dakota,17.4,49.5,14.2,24
+TN,Tennessee,10.6,47.9,18.3,16.5
+TX,Texas,16.3,49.6,17.2,12.8
+UT,Utah,11.4,61.7,11.7,13.4
+VT,Vermont,17.9,48.9,12.2,18.5
+VA,Virginia,15.2,50.1,11.8,14.7
+WA,Washington,17.1,49.6,13.2,14.9
+WV,West Virginia,9.6,48.4,18.3,23.9
+WI,Wisconsin,22.1,49.1,13.2,14.9
+WY,Wyoming,17.2,50.3,11.2,13.5
